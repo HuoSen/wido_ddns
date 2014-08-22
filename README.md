@@ -12,7 +12,8 @@ This library brings DDNS service from Changeip to WiDo. It is a port of the old 
 3. _You will need DFRobot WiDo_
 
 
-
+Product wiki link:
+http://www.dfrobot.com/wiki/index.php/Wido-WIFI_IoT_Node_SKU:DFR0321
 
 
 
