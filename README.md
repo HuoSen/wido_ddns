@@ -2,7 +2,7 @@ WiDo_DDNS
 ================
 # _Project_
 
-_Description: This library brings DDNS service from Changeip to WiDo. It is a port of the old DDNS library that was not maintained anymore.
+This library brings DDNS service from Changeip to WiDo. It is a port of the old DDNS library that was not maintained anymore.
 
 ## Project Setup
 
